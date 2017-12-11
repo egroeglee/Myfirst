@@ -2,21 +2,16 @@
 我的學習地圖:
 
 Machine Learning:
-1.  機器學習基石上下 (Machine Learning Foundations)---Mathematical Foundations 林軒田教授
-https://www.coursera.org/learn/ntumlone-mathematicalfoundations/home/welcome
-
+1.  機器學習基石上下 (Machine Learning Foundations)---Mathematical Foundations 林軒田教授.
+      https://www.coursera.org/learn/ntumlone-mathematicalfoundations/home/welcome
 2. Lecture 1 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa.
-http://work.caltech.edu/telecourse.html
-
-3. Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
-https://www.udemy.com/machinelearning/
-
-4. 資料科學家-輔仁大學 杜逸寧教授(Weka應用)
-http://www.sharecourse.net/sharecourse/course/content/homepage/1137
-
-5. 大數據的設計思考 - 雲科大 -(Tableau應用)
-http://www.sharecourse.net/sharecourse/course/content/chapter/1076
-
+      http://work.caltech.edu/telecourse.html
+3. Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy).
+      https://www.udemy.com/machinelearning/
+4. 資料科學家-輔仁大學 杜逸寧教授(Weka應用).
+      http://www.sharecourse.net/sharecourse/course/content/homepage/1137
+5. 大數據的設計思考 - 雲科大 -(Tableau應用).
+     http://www.sharecourse.net/sharecourse/course/content/chapter/1076
 
 Python:
 1.  Learn Python Fast and Easy Way (Udemy)
