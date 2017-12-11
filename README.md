@@ -20,7 +20,7 @@ https://www.udemy.com/learn-python-overnight/learn/v4/overview
 http://www.books.com.tw/products/0010690075 
 
 Django:
-1. Django by example.
+1. Django by example(Book).
 https://www.packtpub.com/web-development/django-example
 
 Crawler:
