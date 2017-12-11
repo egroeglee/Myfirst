@@ -32,3 +32,10 @@ SKLearn 流程圖
 ![image](https://github.com/egroeglee/pictures/blob/master/ml_map.png)
 
 
+已完成
+1. 回歸模型Regression: simple/Multiple/Polynomial linear regression
+2. 分類模型Classfication: Logistic regression, SVM, kernel SVM, Naive Bayes
+3. 決策樹Decision Tree & Random Froest
+4. 分群Clustering: K-Means
+5. 關聯法則: Association Rule: Apriori
+待續...
