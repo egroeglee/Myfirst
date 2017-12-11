@@ -19,7 +19,12 @@ https://www.udemy.com/learn-python-overnight/learn/v4/overview
 2.  精通Python (Book)博客來網路書店
 http://www.books.com.tw/products/0010690075 
 
-應用:
+Django:
+1. Django by example.
+https://www.packtpub.com/web-development/django-example
+
+Crawler:
+1. 
 
 
 
