@@ -19,20 +19,20 @@ https://www.udemy.com/learn-python-overnight/learn/v4/overview
 2.  精通Python (Book)博客來網路書店
 http://www.books.com.tw/products/0010690075 
 
-Django:
+Web design:
 1. Django by example(Book).
 https://www.packtpub.com/web-development/django-example
 
-Crawler:
-1. 
+2. 全端初體驗:(Udemy)
+https://www.udemy.com/fullstack-starter/learn/v4/content
 
-
+Crawler
 
 SKLearn 流程圖
 ![image](https://github.com/egroeglee/pictures/blob/master/ml_map.png)
 
 
-已完成
+開始把學習到的內容作整理，目前已完成:
 1. 回歸模型Regression: simple/Multiple/Polynomial linear regression
 2. 分類模型Classfication: Logistic regression, SVM, kernel SVM, Naive Bayes
 3. 決策樹Decision Tree & Random Froest
